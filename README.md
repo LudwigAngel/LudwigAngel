@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Ludwig Angel Banner" width="100%" />
+</p>
 # Ludwig Angel Limache Mayta
 
 **Senior Full Stack Developer | GovTech Engineer | SAP & Cloud | AI Integration**
