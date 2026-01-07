@@ -12,7 +12,8 @@
 
 <!-- Animated Typing Text with Cyberpunk Style - Fixed Width -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=160&lines=%3C%2F%3E+Ludwig+Angel+Limache+Mayta;%E2%9A%A1+Senior+Full+Stack+Developer;%F0%9F%8F%9B%EF%B8%8F+GovTech+%26+Enterprise+Engineer;%F0%9F%A4%96+AI+Integration+Specialist;%F0%9F%9A%80+Building+the+Future+of+Government+Tech" alt="Typing SVG" />
-
+<p align="center"></p>
+a
 <!-- Neon Badges for GitHub Dark - Fixed Contrast -->
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Lima%2C%20Peru-00F5FF?style=for-the-badge&logoColor=white&labelColor=161B22&color=00F5FF" />
