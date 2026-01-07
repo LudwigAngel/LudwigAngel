@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Banner with Animation Effects -->
-<img src="assets/banner.png" alt="Ludwig Angel Limache - Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 245, 255, 0.3);" />
+<img src="assets/banner.png" alt="Ludwig Angel Limache - Banner" width="70%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 245, 255, 0.3);" />
 
 <!-- Animated Typing Text Overlay -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Ludwig+Angel+Limache+Mayta;Full+Stack+Developer+%7C+GovTech+Engineer;Building+Enterprise+Systems;Government+%26+Cloud+Solutions;AI-Powered+Applications;6%2B+Years+of+Real+Impact" alt="Typing SVG" />
