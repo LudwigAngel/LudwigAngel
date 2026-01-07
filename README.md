@@ -186,20 +186,20 @@ Inclusive digital services prototype for citizens with disabilities, developed d
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LudwigAngel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LudwigAngel&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LudwigAngel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00F5FF&title_color=00F5FF&icon_color=00F5FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudwigAngel&layout=compact&langs_count=8&theme=tokyonight&border_color=00F5FF&title_color=00F5FF"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LudwigAngel&theme=algolia" alt="LudwigAngel" />
+<img src="https://streak-stats.demolab.com/?user=LudwigAngel&theme=tokyonight&border=00F5FF&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LudwigAngel&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=LudwigAngel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&border_color=00F5FF&title_color=00F5FF" />
 
 </div>
 
@@ -209,7 +209,7 @@ Inclusive digital services prototype for citizens with disabilities, developed d
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LudwigAngel&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LudwigAngel&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B6B&area=true&hide_border=true" width="100%"/>
 
 </div>
 
