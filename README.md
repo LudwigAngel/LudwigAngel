@@ -1,20 +1,34 @@
 <div align="center">
 
-<!-- Custom Banner with Animation Effects -->
-<img src="assets/banner.png" alt="Ludwig Angel Limache - Banner" width="70%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 245, 255, 0.3);" />
+<!-- Custom Banner Optimized for GitHub Dark Theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner2.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner2.png">
+  <img src="assets/banner2.png" alt="Ludwig Angel Limache - Banner" width="100%" style="border-radius: 20px; border: 2px solid #00F5FF; box-shadow: 0 0 30px rgba(0, 245, 255, 0.4), 0 0 60px rgba(0, 245, 255, 0.2); filter: brightness(1.1) contrast(1.2);" />
+</picture>
 
-<!-- Animated Typing Text Overlay -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Ludwig+Angel+Limache+Mayta;Full+Stack+Developer+%7C+GovTech+Engineer;Building+Enterprise+Systems;Government+%26+Cloud+Solutions;AI-Powered+Applications;6%2B+Years+of+Real+Impact" alt="Typing SVG" />
+<!-- Glitch Effect Separator -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
-<!-- Cyberpunk Style Badges -->
+<!-- Animated Typing Text with Cyberpunk Style -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%3C%2F%3E+Ludwig+Angel+Limache+Mayta;%E2%9A%A1+Senior+Full+Stack+Developer;%F0%9F%8F%9B%EF%B8%8F+GovTech+%26+Enterprise+Engineer;%F0%9F%A4%96+AI+Integration+Specialist;%F0%9F%9A%80+Building+the+Future+of+Government+Tech" alt="Typing SVG" />
+
+<!-- Neon Badges for GitHub Dark -->
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Lima%2C%20Peru-00F5FF?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🎯_Focus-GovTech%20%26%20Enterprise-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🤖_AI-Integration%20Specialist-4ECDC4?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <img src="https://custom-icon-badges.demolab.com/badge/📍%20Lima,%20Peru-0D1117?style=for-the-badge&logoColor=00F5FF&labelColor=000000&color=00F5FF&border=2" />
+  <img src="https://custom-icon-badges.demolab.com/badge/🎯%20GovTech%20Focus-0D1117?style=for-the-badge&logoColor=FF6B6B&labelColor=000000&color=FF6B6B&border=2" />
+  <img src="https://custom-icon-badges.demolab.com/badge/🤖%20AI%20Expert-0D1117?style=for-the-badge&logoColor=4ECDC4&labelColor=000000&color=4ECDC4&border=2" />
+  <img src="https://custom-icon-badges.demolab.com/badge/⚡%206+%20Years-0D1117?style=for-the-badge&logoColor=FFD93D&labelColor=000000&color=FFD93D&border=2" />
 </p>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Matrix Rain Effect -->
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Matrix Effect" />
+
+<!-- Visitor Counter with Neon Effect -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LudwigAngel&style=for-the-badge&color=00F5FF&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/LudwigAngel?style=for-the-badge&color=4ECDC4&labelColor=000000&logo=github&logoColor=4ECDC4" alt="Followers" />
+</p>
 
 </div>
 
