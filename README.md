@@ -1,14 +1,20 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ludwig%20Angel%20Limache&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20GovTech%20Engineer%20|%20AI%20Integration&descAlignY=55&descSize=18)
+<!-- Custom Banner with Animation Effects -->
+<img src="assets/banner.png" alt="Ludwig Angel Limache - Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 245, 255, 0.3);" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Enterprise+Systems;Government+%26+Cloud+Solutions;AI-Powered+Applications;6%2B+Years+of+Impact" alt="Typing SVG" />
+<!-- Animated Typing Text Overlay -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Ludwig+Angel+Limache+Mayta;Full+Stack+Developer+%7C+GovTech+Engineer;Building+Enterprise+Systems;Government+%26+Cloud+Solutions;AI-Powered+Applications;6%2B+Years+of+Real+Impact" alt="Typing SVG" />
 
+<!-- Cyberpunk Style Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Lima%2C%20Peru-00F5FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-GovTech%20%26%20Enterprise-FF6B6B?style=for-the-badge&logo=government&logoColor=white" />
-  <img src="https://img.shields.io/badge/Specialization-AI%20Integration-4ECDC4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍_Location-Lima%2C%20Peru-00F5FF?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎯_Focus-GovTech%20%26%20Enterprise-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🤖_AI-Integration%20Specialist-4ECDC4?style=for-the-badge&logoColor=white&labelColor=0D1117" />
 </p>
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -212,6 +218,4 @@ Inclusive digital services prototype for citizens with disabilities, developed d
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2
