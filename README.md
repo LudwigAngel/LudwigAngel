@@ -191,17 +191,7 @@ Inclusive digital services prototype for citizens with disabilities, developed d
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LudwigAngel&theme=algolia" alt="LudwigAngel" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LudwigAngel&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
-
-</div>
 
 ---
 
