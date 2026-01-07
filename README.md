@@ -1,24 +1,24 @@
 <div align="center">
 
-<!-- Custom Banner Optimized for GitHub Dark Theme -->
+<!-- Custom Banner Optimized for GitHub Dark Theme - Full Width -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner2.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner2.png">
-  <img src="assets/banner2.png" alt="Ludwig Angel Limache - Banner" width="100%" height="60%" style="border-radius: 20px; border: 2px solid #00F5FF; box-shadow: 0 0 30px rgba(0, 245, 255, 0.4), 0 0 60px rgba(0, 245, 255, 0.2); filter: brightness(1.1) contrast(1.2);" />
+  <img src="assets/banner2.png" alt="Ludwig Angel Limache - Banner" style="width: 100%; max-width: 100%; height: auto; border-radius: 20px; border: 2px solid #00F5FF; box-shadow: 0 0 30px rgba(0, 245, 255, 0.4), 0 0 60px rgba(0, 245, 255, 0.2); filter: brightness(1.1) contrast(1.2); display: block; object-fit: cover;" />
 </picture>
 
 <!-- Glitch Effect Separator -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
-<!-- Animated Typing Text with Cyberpunk Style -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%3C%2F%3E+Ludwig+Angel+Limache+Mayta;%E2%9A%A1+Senior+Full+Stack+Developer;%F0%9F%8F%9B%EF%B8%8F+GovTech+%26+Enterprise+Engineer;%F0%9F%A4%96+AI+Integration+Specialist;%F0%9F%9A%80+Building+the+Future+of+Government+Tech" alt="Typing SVG" />
+<!-- Animated Typing Text with Cyberpunk Style - Fixed Width -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=160&lines=%3C%2F%3E+Ludwig+Angel+Limache+Mayta;%E2%9A%A1+Senior+Full+Stack+Developer;%F0%9F%8F%9B%EF%B8%8F+GovTech+%26+Enterprise+Engineer;%F0%9F%A4%96+AI+Integration+Specialist;%F0%9F%9A%80+Building+the+Future+of+Government+Tech" alt="Typing SVG" />
 
-<!-- Neon Badges for GitHub Dark -->
+<!-- Neon Badges for GitHub Dark - Fixed Contrast -->
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/📍%20Lima,%20Peru-0D1117?style=for-the-badge&logoColor=00F5FF&labelColor=000000&color=00F5FF&border=2" />
-  <img src="https://custom-icon-badges.demolab.com/badge/🎯%20GovTech%20Focus-0D1117?style=for-the-badge&logoColor=FF6B6B&labelColor=000000&color=FF6B6B&border=2" />
-  <img src="https://custom-icon-badges.demolab.com/badge/🤖%20AI%20Expert-0D1117?style=for-the-badge&logoColor=4ECDC4&labelColor=000000&color=4ECDC4&border=2" />
-  <img src="https://custom-icon-badges.demolab.com/badge/⚡%206+%20Years-0D1117?style=for-the-badge&logoColor=FFD93D&labelColor=000000&color=FFD93D&border=2" />
+  <img src="https://img.shields.io/badge/📍%20Lima%2C%20Peru-00F5FF?style=for-the-badge&logoColor=white&labelColor=161B22&color=00F5FF" />
+  <img src="https://img.shields.io/badge/🎯%20GovTech%20Focus-FF6B6B?style=for-the-badge&logoColor=white&labelColor=161B22&color=FF6B6B" />
+  <img src="https://img.shields.io/badge/🤖%20AI%20Expert-4ECDC4?style=for-the-badge&logoColor=white&labelColor=161B22&color=4ECDC4" />
+  <img src="https://img.shields.io/badge/⚡%206%2B%20Years-FFD93D?style=for-the-badge&logoColor=black&labelColor=161B22&color=FFD93D" />
 </p>
 
 <!-- Matrix Rain Effect -->
@@ -36,7 +36,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Cyberpunk Developer" width="450" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img align="right" alt="AI Developer" width="480" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 Senior Software Engineer and SAP Consultant with **6+ years** of experience building and maintaining mission-critical systems in production environments, particularly within the **public sector**. 
 
@@ -82,12 +82,12 @@ Currently focused on integrating **Generative AI** into production systems to op
 
 ### 🎨 Frontend Technologies  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,js,typescript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,html,css,js,typescript&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=oracle,postgresql,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=oracle,postgresql,mysql,mariadb&theme=dark" />
 </p>
 
 ### ☁️ Enterprise & Cloud
@@ -118,10 +118,10 @@ Currently focused on integrating **Generative AI** into production systems to op
 <tr>
 <td width="50%">
 
-### 🏛️ SICPO / SIGPO
-**Government Agricultural Systems**
+### 🏛️ SICPO
+**Government Agricultural System**
 
-Core platforms supporting Peru's Ministry of Agriculture with farmer registration, crop monitoring, and certification workflows.
+Core platform supporting Peru's Ministry of Agriculture with farmer registration, crop monitoring, and certification workflows.
 
 **Tech:** `Java Spring Boot` `Oracle` `Angular`
 
