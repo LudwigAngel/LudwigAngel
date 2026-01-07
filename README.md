@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner2.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner2.png">
-  <img src="assets/banner2.png" alt="Ludwig Angel Limache - Banner" width="100%" style="border-radius: 20px; border: 2px solid #00F5FF; box-shadow: 0 0 30px rgba(0, 245, 255, 0.4), 0 0 60px rgba(0, 245, 255, 0.2); filter: brightness(1.1) contrast(1.2);" />
+  <img src="assets/banner2.png" alt="Ludwig Angel Limache - Banner" width="100%" height="60%" style="border-radius: 20px; border: 2px solid #00F5FF; box-shadow: 0 0 30px rgba(0, 245, 255, 0.4), 0 0 60px rgba(0, 245, 255, 0.2); filter: brightness(1.1) contrast(1.2);" />
 </picture>
 
 <!-- Glitch Effect Separator -->
@@ -36,7 +36,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Cyberpunk Developer" width="450" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 Senior Software Engineer and SAP Consultant with **6+ years** of experience building and maintaining mission-critical systems in production environments, particularly within the **public sector**. 
 
